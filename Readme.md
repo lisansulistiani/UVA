@@ -7,3 +7,4 @@
 | [483 - Word Scramble](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=6&page=show_problem&problem=424) | [100](https://github.com/lisansulistiani/UVA/blob/master/C%2B%2B/483.cpp) |
 | [1644 - Prime Gap](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=825&page=show_problem&problem=4519) | [1644](https://github.com/lisansulistiani/UVA/blob/master/C%2B%2B/1644.cpp) |
 | [10082 - WERTYU](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1023) | [10082](https://github.com/lisansulistiani/UVA/blob/master/C%2B%2B/10082.cpp) |
+| [12970 - Alcoholic Pilots](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=862&page=show_problem&problem=4849) | [12970](https://github.com/lisansulistiani/UVA/blob/master/C%2B%2B/12970.cpp) |
